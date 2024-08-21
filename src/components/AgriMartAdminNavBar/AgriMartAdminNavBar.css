@@ -1,0 +1,16 @@
+.nav-styles{
+    cursor: pointer;
+    font-family: Poppins;
+    background-color: rgb(14, 13, 13);
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    text-align: left;
+    color: rgb(250, 245, 245);
+   
+}
+.badge-style{
+    cursor: pointer;
+    font-size: 20px;
+}

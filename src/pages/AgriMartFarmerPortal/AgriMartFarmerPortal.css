@@ -1,0 +1,79 @@
+
+.txt-header {
+    color: rgb(rgb(13, 14, 13));
+    text-align: center;
+    padding-top: 100px;
+    top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+  }
+  
+  .has-background-gradient-green {
+    background: rgb(147, 223, 148);
+    background: linear-gradient(
+      90deg,
+      rgba(147, 223, 148, 1) 0%,
+      rgba(94, 200, 90, 1) 66%
+    );
+    color: white;
+  }
+  
+  .has-background-gradient-green .my-icon {
+    background: rgba(147, 223, 148, 0.9);
+  }
+  
+  .has-background-gradient-blue {
+    background: rgb(179, 186, 255);
+    background: linear-gradient(
+      90deg,
+      rgba(179, 186, 255, 1) 0%,
+      rgba(125, 143, 255, 1) 66%
+    );
+    color: white;
+  }
+  
+  .has-background-gradient-blue .my-icon {
+    background: rgba(179, 186, 255, 0.9);
+  }
+  
+  .has-background-gradient-orange {
+    background: rgb(255, 204, 149);
+    background: linear-gradient(
+      90deg,
+      rgba(255, 204, 149, 1) 0%,
+      rgba(255, 112, 67, 1) 66%
+    );
+    color: white;
+  }
+  
+  .has-background-gradient-orange .my-icon {
+    background: rgba(255, 204, 149, 0.9);
+  }
+  
+  .has-background-gradient-teal {
+    background: rgb(182, 225, 221);
+    background: linear-gradient(
+      90deg,
+      rgba(182, 225, 221, 1) 0%,
+      rgba(38, 166, 154, 1) 66%
+    );
+    color: white;
+  }
+  
+  .has-background-gradient-teal .my-icon {
+    background: rgba(182, 225, 221, 0.9);
+  }
+  
+  .my-card {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    min-height: 120px;
+    border: none;
+    border-radius: 8px;
+    display: flex;
+    flex-direction: row;
+  }
+  .my-card .my-icon {
+    border-radius: 8px;
+    font-size: 34px;
+  }

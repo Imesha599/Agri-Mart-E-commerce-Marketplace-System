@@ -1,0 +1,28 @@
+
+
+.checkRow{
+    padding-top: 10em;
+    margin-left: 5em;
+}
+
+.checkCol{
+    margin-left: 5em;
+    border-right: 1em;
+}
+
+.cart{
+    background-color: rgb(240, 240, 240);
+}
+
+.checkCard{
+    border-radius: 1em;
+}
+
+.checkCardForm{
+    border-radius: 1em;
+}
+
+.paymentCard{
+    border-radius: 1em;
+    margin-bottom: 3em;
+}

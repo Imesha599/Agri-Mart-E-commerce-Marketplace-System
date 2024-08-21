@@ -1,0 +1,51 @@
+.cnt{
+
+    background-color: rgb(255, 255, 255);
+    
+    background-image: url("backdrop.jpeg");
+    background-repeat: no-repeat;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size:contain;
+    margin-top: 20px;  
+    }
+    
+    .text-header{
+    color: black;
+    text-shadow: 2px 2px 4px #46423f;
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bolder;
+    padding: 100px;
+    padding-left: 200px;
+    padding-top: 150px;
+    }
+    
+    
+    .text-content{
+    font-family: Arial;
+    font-style: normal;
+    font-weight: bolder;
+    word-break: break-all;
+    padding-left: 200px;
+    padding-top: 10px;
+    
+    }
+    
+    .btn-style{
+        padding-left: 200px;
+    padding-top: 10px;
+    cursor: pointer;
+    }
+    .footer{
+      
+        padding: 1rem;
+        background-color: rgb(14, 13, 13);
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        width: 100%;
+        text-align: left;
+        color: rgb(250, 245, 245);
+    }

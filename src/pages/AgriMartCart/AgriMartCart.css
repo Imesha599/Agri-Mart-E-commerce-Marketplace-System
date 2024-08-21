@@ -1,0 +1,96 @@
+/* .row{
+    background-size: auto;
+}
+
+.row2{
+    padding-top: 10em;
+    background-size: auto;
+    background-color: rgb(212, 212, 212);
+}
+                             
+.inline{
+    display: inline-block;
+}
+
+.row3{
+    padding-top: 8em;
+    background-size: auto;
+    background-color: rgb(255, 255, 255);
+}
+
+.trow{
+    width: 5em;
+}
+.shop{
+    border-radius: 1ch;
+    color: rgb(0, 0, 0);
+    background-color: rgb(138, 147, 137);
+    width: 20em;
+    height: 5em;
+    border-style: hidden;
+}
+
+.card-header{
+    background-color: rgb(152, 152, 152);
+}
+
+.py-3{
+    background-color: aqua;
+}
+
+.btnadd{
+    background-color: rgb(124, 124, 124);
+    text-align: center;
+    padding-top: 2em;
+    border-style: initial;
+    
+}
+
+.btndel{
+    background-color:rgb(200, 0, 0);
+    border-radius:2cm;
+}
+
+.col-md-6{
+    padding-top: 5em;
+}
+
+.col-md-7{
+    padding-top: 5em;
+}
+
+.addbtn:hover {
+    color: rgb(170, 170, 170);
+    
+  }
+
+.py-4{
+    background-color: rgb(251, 249, 249);
+} */
+
+.cart{
+    background-color: rgb(240, 240, 240);
+}
+
+.cartRow{
+    padding-top: 10em;
+    padding-left: 5em;
+}
+
+.cartCol2{
+    padding-left: 10em;
+}
+
+.deleteicon{
+    color: rgb(194, 7, 7);
+}
+.cartButtons{
+    margin-top: 5ex;
+    margin-bottom: 2em;
+    margin-left: 5em;
+}
+
+.cartShopmoreBtn{
+    margin-right: 20em;
+}
+

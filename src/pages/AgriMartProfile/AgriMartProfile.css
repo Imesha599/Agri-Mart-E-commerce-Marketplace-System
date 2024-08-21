@@ -1,0 +1,24 @@
+.row{
+  padding-top: 10em;
+}
+
+
+.editIcon:hover {
+    transform: scale(1.2); 
+    transition: transform .1700s;
+  }
+
+
+
+.py-9{
+  padding-top: 10em;
+}
+
+.profileRow2{
+  margin-top: 5em;
+}
+
+.profile{
+  background-color: rgb(240, 240, 240);
+
+}
